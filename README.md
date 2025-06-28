@@ -1,2 +1,1 @@
-# ml-projects-portfolio
-A showcase of diverse machine learning projects developed to highlight proficiency in data science, feature engineering, and predictive modeling using Python, scikit-learn, XGBoost, and more.
+This repository contains a variety of machine learning projects, from data exploration and visualization to model training and deployment. Perfect for anyone interested in practical applications of ML and data science.
